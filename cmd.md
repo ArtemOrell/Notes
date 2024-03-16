@@ -1,2 +1,2 @@
 # First header
-ldfjldfldlfjld
+$${\color{red}Some text}$$
